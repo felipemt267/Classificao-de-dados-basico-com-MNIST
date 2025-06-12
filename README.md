@@ -33,3 +33,5 @@ O objetivo é treinar um modelo de classificação de imagens usando redes neura
 - Matriz de confusão mostrando o desempenho por classe.
 
 
+## Autor
+Felipe Massami
